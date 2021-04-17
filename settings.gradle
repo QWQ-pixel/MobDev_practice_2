@@ -1,0 +1,8 @@
+include ':dialog'
+include ':notificationapp'
+include ':toastapp'
+include ':intentfilter'
+include ':IntentFilter'
+include ':multiactivity'
+include ':LifecycleActivity'
+rootProject.name = "ru.mirea.kuznetsova.practice2"
